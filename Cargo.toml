@@ -1,0 +1,5 @@
+[package]
+name = "plonky2-bls12-381-pairing"
+
+[dependencies]
+plonky2-bls12-381={ git = "https://github.com/metacraft-labs/plonky2-bn254.git" }
